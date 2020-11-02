@@ -1,5 +1,5 @@
 # My Status
-[![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=sddai&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sddai/)
+[![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=Javen-Liu&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/Javen-Liu/)
 <br>
 [![Top Langs](https://github-readme-stats-izh7piylk.vercel.app/api/top-langs/?username=sddai&langs_count=10&card_width=495&bg_color=DEG,A65481,E66345&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sddai/)
 <br>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux&logoColor=white&labelColor=8E2DE2)
 
-<img align="center" src="https://raw.githubusercontent.com/sddai/sddai/master/connect.png"/><br>
+<--<img align="center" src="https://raw.githubusercontent.com/sddai/sddai/master/connect.png"/><br>-->
 # Contact Me
 
 <a href="http://blog.matrix-world.top/" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://www.cnblogs.com/sddai/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
