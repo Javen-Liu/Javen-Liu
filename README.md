@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux&logoColor=white&labelColor=8E2DE2)
 
-<--<img align="center" src="https://raw.githubusercontent.com/sddai/sddai/master/connect.png"/><br>-->
+<!--<img align="center" src="https://raw.githubusercontent.com/sddai/sddai/master/connect.png"/><br>-->
 # Contact Me
 
 <a href="http://blog.matrix-world.top/" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://www.cnblogs.com/sddai/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
