@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <!--<img align="center" src="https://raw.githubusercontent.com/sddai/sddai/master/connect.png"/><br>-->
 # Contact Me
 
-<a href="http://blog.matrix-world.top/" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Into%20Matrix-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
+<a href="http://blog.matrix-world.top/" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Javen's%20Blog-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
